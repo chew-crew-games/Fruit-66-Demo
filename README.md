@@ -10,13 +10,13 @@ Your objective is to make the most money by delivering orders quickly and accura
 
 This repo hosts the latest WebGL build of our game as a playable demo.
 
+[Click here to play!](https://chew-crew-games.github.io/Fruit-66-Demo/)
+
+
 ## Controls:
 - `WASD` to drive the car
 - `Click` to pick things up
 - `Spacebar` to toggle between "driving" and "throwing" modes
-
-## Link:
-[Click here to play!](https://chew-crew-games.github.io/Fruit-66-Demo/)
 
 # Updating the build:
 - Download the latest WebGL build from the Github Action in our main repo
