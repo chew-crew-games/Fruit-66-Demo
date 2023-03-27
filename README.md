@@ -19,9 +19,12 @@ This repo hosts the latest WebGL build of our game as a playable demo.
 - `Spacebar` to toggle between "driving" and "throwing" modes
 
 # Updating the build:
+The build is updated automatically via Github Actions whenever new releases are created in the main repo.
+
+If you need to perform a manual deployment, you can do the following:
 - Download the latest WebGL build from the Github Action in our main repo
-- Overwrite the following files/directories in the `main` branch:
-  - `Build`
-  - `TemplateData`
-  - `index.html`
+- Overwrite everything in the `docs` directory in this repo with the contents of the build.  Usually the resulting files/directories would look something like:
+  - `docs/Build`
+  - `docs/TemplateData`
+  - `docs/index.html`
 - Push to overwrite `main`.  That's it.  The Github Action in this repo will automatically deploy it in a minute or so.
