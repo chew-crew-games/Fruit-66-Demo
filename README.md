@@ -1,5 +1,6 @@
 # Fruit-66-Demo
-![WebGL Build](https://github.com/chew-crew-games/Fruit-66/actions/workflows/build-webgl.yml/badge.svg)
+![WebGL Build](https://github.com/chew-crew-games/Fruit-66-Demo/actions/workflows/pages/pages-build-deployment/badge.svg)
+
 
 A chaotic, silly driving and cooking game made for GGDA's Best-In-Georgia Competition 2023.
 
